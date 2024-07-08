@@ -8,10 +8,10 @@ I am a passionate Cybersecurity Professional with a keen interest in ethical hac
 
 - 🌱 I’m currently learning advanced techniques in Threat Hunting
 - 👯 I’m looking to collaborate on open-source security tools and projects
-- 🤔 I’m looking for help with [Your Request, e.g., mastering a specific tool or technique]
-- 💬 Ask me about [Your Expertise, e.g., Network Security, Cryptography, etc.]
-- 📫 How to reach me: badcaptianela@gmail.com
-- 😄 Pronouns: HE/HIM
+- 🤔 I’m looking for help with mastering advanced pentesting techniques
+- 💬 Ask me about Network Security, Cryptography, and Incident Response
+- 📫 How to reach me: [badcaptianela@gmail.com](mailto:badcaptianela@gmail.com)
+- 😄 Pronouns: He/Him
 
 ## 🛠️ Skills and Tools
 
@@ -21,7 +21,7 @@ I am a passionate Cybersecurity Professional with a keen interest in ethical hac
 
 ## 📈 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=badcaptianela&show_icons=true&theme=radical)
+![Elavarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badcaptianela&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 
@@ -31,20 +31,15 @@ I am a passionate Cybersecurity Professional with a keen interest in ethical hac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/elavarasan-d-70b09322b/)
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 🏆 Certifications
 
--Google Cybersecurity
--Cisco Cybersecurity Essentials
+- Google Cybersecurity
+- Cisco Cybersecurity Essentials
 
 ## 🌐 Open Source Contributions
 
-- [Project Name](https://github.com/yourusername/projectname) - Brief description of your contribution
-- [Another Project](https://github.com/yourusername/anotherproject) - Brief description of your contribution
+- [Project Name](https://github.com/badcaptianela/projectname) - Brief description of your contribution
+- [Another Project](https://github.com/badcaptianela/anotherproject) - Brief description of your contribution
 
 ## ⚙️ Work in Progress
 
