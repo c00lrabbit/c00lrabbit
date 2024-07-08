@@ -43,8 +43,8 @@ I am a passionate Cybersecurity Professional with a keen interest in ethical hac
 
 ## ⚙️ Work in Progress
 
-- Proxmox Home Server(https://github.com/badcaptianela/project-proxmox) - To Use this Server As NAS,Ad-Blocker,etc.
-- Hacking Home LAB(https://github.com/badcaptianela/Hacking-Homelab) -To practice Ethical Hacking In Hone
+- [Proxmox Home Server](https://github.com/badcaptianela/project-proxmox) - To Use this Server As NAS,Ad-Blocker,etc.
+- [Hacking Home LAB](https://github.com/badcaptianela/Hacking-Homelab) -To practice Ethical Hacking In Hone
 ## 🎉 Fun Fact
 
 - I love attending DEF CON and participating in CTF competitions.
