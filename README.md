@@ -1,7 +1,3 @@
-Here's a refined version of your profile for a more polished look:
-
----
-
 # Hi there, I'm Elavarasan! 👋
 
 
