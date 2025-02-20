@@ -39,11 +39,6 @@ I'm passionate about cybersecurity with a focus on ethical hacking, penetration 
 - Google Cybersecurity
 - Cisco Cybersecurity Essentials
 
-## 🌐 Open Source Contributions
-
-- [Project Name](https://github.com/badcaptianela/projectname) - Brief description of your contribution
-- [Another Project](https://github.com/badcaptianela/anotherproject) - Brief description of your contribution
-
 ## ⚙️ Work in Progress
 
 - [Proxmox Home Server](https://github.com/badcaptianela/project-proxmox) - To Use this Server As NAS,Ad-Blocker,etc.
