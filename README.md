@@ -35,7 +35,7 @@ I'm passionate about cybersecurity with a focus on ethical hacking, penetration 
 
 ## 🏆 Certifications
 
-- Practical Junior Penetration Tester(PJPT) (https://certified.tcm-sec.com/c2524a1f-1ba8-4667-a2c2-d26c0e18a265#acc.sFWXghBJ)
+- Practical Junior Penetration Tester(PJPT) (https://certified.tcm-sec.com/c2524a1f-1ba8-4667-a2c2-d26c0e18a265?key=5b9b034a8a7ffbff94a6b8c5ee07c8818fb84d80fadbf1d114eef37f65b9e058)
 - Google Cybersecurity
 - Cisco Cybersecurity Essentials
 
