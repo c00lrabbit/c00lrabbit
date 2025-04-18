@@ -23,11 +23,11 @@ I'm passionate about cybersecurity with a focus on ethical hacking, penetration 
 
 ## 📈 GitHub Stats
 
-![Elavarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=badcaptianela&show_icons=true&theme=radical)
+![Elavarasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c00lrabbit&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badcaptianela&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c00lrabbit&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
@@ -41,8 +41,8 @@ I'm passionate about cybersecurity with a focus on ethical hacking, penetration 
 
 ## ⚙️ Work in Progress
 
-- [Proxmox Home Server](https://github.com/badcaptianela/project-proxmox) - To Use this Server As NAS,Ad-Blocker,etc.
-- [Hacking Home LAB](https://github.com/badcaptianela/Hacking-Homelab) -To practice Ethical Hacking In Home
+- [Proxmox Home Server](https://github.com/c00lrabbit/project-proxmox) - To Use this Server As NAS,Ad-Blocker,etc.
+- [Hacking Home LAB](https://github.com/c00lrabbit/Hacking-Homelab) -To practice Ethical Hacking In Home
 
 ## 🎉 Fun Fact
 
