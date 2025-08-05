@@ -8,6 +8,7 @@ I'm passionate about cybersecurity with a focus on ethical hacking, penetration 
 - 🌍 Ranked #398 Globally in Hack The Box
 - 🏆 Active in "Pro Hacker" Rank on Hack The Box
 - 🏆 PNPT, PJPT from TCM
+- 🏆 PT1 from TryHackMe
 - 🌱 Currently mastering advanced techniques in Threat Hunting
 - 👯 Seeking collaborations on open-source security projects
 - 🤔 Looking to enhance my skills in advanced pentesting techniques
